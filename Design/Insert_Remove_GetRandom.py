@@ -47,6 +47,7 @@ Design a class:
       return hashmap.get(element, None)
           
 '''
+#https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
 
 ####################################
 
